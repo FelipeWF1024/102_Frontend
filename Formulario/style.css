@@ -1,0 +1,19 @@
+    label{
+            color:blue; 
+        }
+
+        body{
+            background-color:rgb(33, 32, 32); 
+        }
+
+        h1{
+            color:blue
+        }
+
+        .botao{
+            background-color: blue;
+        }
+
+        .cancel{
+            background-color:crimson
+        }
