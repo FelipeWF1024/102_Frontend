@@ -1,3 +1,10 @@
+*{
+    color:rgb(13, 13, 13);
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
 h1{
     color:aliceblue
 }
@@ -16,8 +23,22 @@ body{
     background-color: #4C0092
 }
 #economy{
-    background-color: #3B0070;
+    background-color: #450181;
 }
 #copy{
     color:aliceblue
+}
+a{
+    color:aliceblue
+}
+.creation-date{
+    color:rgb(13, 13, 13)
+}
+li{
+    color:aliceblue
+}
+.container{
+    color:aliceblue;
+    width: 1366px;
+    margin: 0 auto 0 auto;
 }
